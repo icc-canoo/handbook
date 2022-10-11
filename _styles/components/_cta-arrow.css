@@ -1,0 +1,24 @@
+
+.cta-arrow {
+    white-space: nowrap;
+}
+.cta-arrow {
+    text-decoration: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    text-transform: uppercase;
+    position: relative;
+}
+.cta-arrow img {
+    margin-left: 10px;
+    height: 13px;
+    transition: .2s;
+    right: 0;
+    position: relative;
+}
+
+.cta-arrow:hover img {
+  right: -5px;
+}

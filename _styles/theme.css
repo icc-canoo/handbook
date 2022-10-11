@@ -1,0 +1,72 @@
+/*
+Theme Name: Institute for Canadian Citizenship
+Author: Coeffect
+Author URI: http://coeffect.ca/
+Text Domain: icc
+Description: Custom Theme for Institute for Canadian Citizenship
+Version: 1.0.0
+*/
+
+:root {
+  --pink: #C60586;
+  --blue: #0450BC;
+  --royalblue: #005AD9;
+  --darkblue: #041E42;
+  --yellow: #EDED03;
+  --peach: #FF8C96;
+  --transition: .2s;
+}
+
+*, html, body {
+  font-family: 'Barlow', sans-serif;
+  color: var(--darkblue);
+}
+
+h1,h2,h3,h4,h5,h6,b {
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 4em;
+}
+
+h2 {
+  font-size: 2.5em;
+}
+
+h3 {
+  font-size: 2em;
+}
+p, .markdown-section p, li {
+  font-size: 1.2em !important;
+}
+
+a {
+   color: var(--darkblue);
+}
+
+a:hover {
+  color: var(--pink);
+  transition: var(--transition);
+}
+
+@media all and (max-width: 992px) {
+  h1 {
+    font-size: 3em;
+  }
+
+}
+
+.bordered-image img {
+  border: 1px solid black;
+  padding: 10px;
+  max-height: 450px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.bordered-image .image-title {
+  display: block;
+  text-align: center;
+}

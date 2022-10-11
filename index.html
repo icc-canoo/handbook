@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>ICC Handbook</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="_styles/global.css">
+  <link rel="icon" href="https://inclusion.ca/wp-content/uploads/2022/04/cropped-ICC-Icon-small-32x32.png" sizes="32x32">
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: 'ICC Handbook',
+      homepage: 'welcome.md',
+      // repo: ''
+      auto2top: true,
+      // coverpage: true,
+      logo: '_media/icc-logo.svg',
+      themeColor: "#0450BC",
+      loadSidebar: true,
+      routerMode: "history",
+      subMaxLevel: 3,
+
+      // Define reusable components
+      vueComponents: {
+        'cta-arrow': {
+          props: {
+            target: String,
+            text: String
+          },
+          template: `
+            <a class='cta-arrow' target="_self" :href="target">
+              Next: {{text}} <img class="arrow-img" src="https://inclusion.ca/wp-content/plugins/icc-blocks/dist/assets/arrow-r-pink.svg" alt="arrow"/>
+            </a>
+          `,
+        },
+        'bordered-image': {
+          props: {
+            alt: String,
+            src: String,
+
+          },
+          template: `
+            <div class="bordered-image">
+              <img :src="src" :alt="alt"/>
+            </div>
+          `,
+        },
+      }
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/vue@2/dist/vue.min.js"></script>
+</body>
+</html>
