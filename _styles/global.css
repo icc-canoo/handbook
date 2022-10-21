@@ -2,6 +2,8 @@
 @import url('theme.css');
 
 @import url('components/_cta-arrow.css');
+@import url('components/_bordered-image.css');
+
 
 /* Make sure the logo can breathe in the navbar */
 .app-name img {

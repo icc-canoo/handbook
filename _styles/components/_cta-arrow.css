@@ -1,8 +1,13 @@
+.cta-arrow-wrap {
+  border-top: 1px solid var(--blue);
+  padding-top: 2em;
+  margin-top: 2em;
+}
 
 .cta-arrow {
+    font-size: 1.3em;
+    font-weight: bold;
     white-space: nowrap;
-}
-.cta-arrow {
     text-decoration: none;
     cursor: pointer;
     display: flex;
