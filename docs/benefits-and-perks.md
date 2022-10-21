@@ -19,6 +19,9 @@ __Life insurance__ | $25k
 
 ## Paid time off
 
+### Your first day
+Your very first day is a fully paid day off that doesn't count against your vacation allowance. Do whatever you want to get ready for the next phase of your career.
+
 ### Vacation
 Everybody at the ICC receives a minimum three weeks of paid vacation. Some positions offer four weeks.
 
