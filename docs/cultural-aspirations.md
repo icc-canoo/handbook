@@ -16,4 +16,4 @@ We aspire to have a culture that is:
 
 5. __Always learning__. We make mistakes. We try things that don't work. Then we come up with new ideas.
 
-<cta-arrow target="where-we-work.md" text="Where we work"></cta-arrow>
+<cta-arrow target="where-we-work" text="Where we work"></cta-arrow>

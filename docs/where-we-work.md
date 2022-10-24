@@ -20,4 +20,4 @@ __*NB: We STRONGLY advise that you connect to the internet using a VPN when work
 ## Elsewhere in the world
 As an organization that employs many immigrants, it's understandable that you may want to spend an extended period of time in another country where you have family and friends. This is acceptable for a limited period, as long as your manager approves and you come up with a reasonable system for dealing with time differences.  
 
-<cta-arrow target="okrs.md" text="OKRs"></cta-arrow>
+<cta-arrow target="okrs" text="OKRs"></cta-arrow>

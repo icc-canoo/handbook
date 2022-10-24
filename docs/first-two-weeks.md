@@ -47,4 +47,4 @@ You'll have the chance to make any adjustments your manager recommends, and the 
 ### Friday
 Your manager will give final sign off on your presentation by lunchtime. You can chat with your buddy or do whatever you want for the next couple hours. You'll do another OKR checkin around 3pm, and then head to the Meeting of the Minds to show the rest of us what you've been working on!
 
-<cta-arrow target="pay-transparency.md" text="Pay transparency"></cta-arrow>
+<cta-arrow target="pay-transparency" text="Pay transparency"></cta-arrow>

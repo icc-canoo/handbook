@@ -33,4 +33,4 @@
 ## March 31
 - End of fiscal year
 
-<cta-arrow target="first-two-weeks.md" text="Your first two weeks"></cta-arrow>
+<cta-arrow target="first-two-weeks" text="Your first two weeks"></cta-arrow>

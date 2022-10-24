@@ -14,4 +14,4 @@ Ready? Let's do this.
 
 *P.S. This handbook is inspired by the one created for employees at Basecamp. Many thanks to the Basecamp team for crafting such a thoughtful document and for making it open source for everyone to use. This handbook is open source too. Just [fork on Github](https://github.com/icc-canoo/handbook).*
 
-<cta-arrow target="why-icc.md" text="Why ICC"></cta-arrow>
+<cta-arrow target="why-icc" text="Why ICC"></cta-arrow>

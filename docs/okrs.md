@@ -28,4 +28,4 @@ You can learn more about OKRs [here](https://www.whatmatters.com/get-started). W
 
 4. __Always easy at first__. The OKR system can take some time to get used to. Don't worry. That's normal. Stick with it.
 
-<cta-arrow target="annual-cycle.md" text="Annual cycle"></cta-arrow>
+<cta-arrow target="annual-cycle" text="Annual cycle"></cta-arrow>

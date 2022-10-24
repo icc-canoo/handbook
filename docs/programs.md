@@ -29,4 +29,4 @@ The ICC held 6 Degrees events in several Canadian cities, but also in Mexico, Th
 
 6 Degrees was launched in response to the Syrian refugee crisis of 2015, when the world was reluctant to accept those seeking asylum. The plight of asylum seekers has not disappeared but over the years, 6 Degrees drifted away from this theme and we eventually decided that its time had come and gone. The last 6 Degrees was held in 2020. The memories will live on forever.
 
-<cta-arrow target="cultural-aspirations.md" text="Cultural aspirations"></cta-arrow>
+<cta-arrow target="cultural-aspirations" text="Cultural aspirations"></cta-arrow>

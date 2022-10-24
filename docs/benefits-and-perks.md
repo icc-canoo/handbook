@@ -77,4 +77,4 @@ The program provides assistance with:
 - Wellness issues
 - Crisis
 
-<cta-arrow target="internal-systems.md" text="Internal systems"></cta-arrow>
+<cta-arrow target="internal-systems" text="Internal systems"></cta-arrow>

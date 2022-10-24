@@ -36,4 +36,4 @@ Since moonlighting is rarely a black or white proposition, we have a few guideli
 
 No problem. Come talk to Daniel or Salimah if you have any doubt. We'll always try to say yes to reasonable requests, and if it's a bit too much for us to accept, we'll try to modify your proposal to accommodate our shared interests.
 
-<cta-arrow target="lexicon.md" text="Lexicon"></cta-arrow>
+<cta-arrow target="lexicon" text="Lexicon"></cta-arrow>

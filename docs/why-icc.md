@@ -89,4 +89,4 @@ We found this pretty surprising, so in March 2022, we polled about 2,000 immigra
 
 __TLDR; The ICC is an essential national service. When we succeed, Canada succeeds. If we fail, Canada is in trouble.__
 
-<cta-arrow target="programs.md" text="Programs"></cta-arrow>
+<cta-arrow target="programs" text="Programs"></cta-arrow>

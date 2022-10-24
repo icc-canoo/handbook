@@ -53,4 +53,4 @@ Avg. 4-star reviews from participants | $2k | 3-stars (75%) | $1.5k
 
 Bonus payments are subject to the same withholdings as normal salary.
 
-<cta-arrow target="benefits-and-perks.md" text="Benefits and perks"></cta-arrow>
+<cta-arrow target="benefits-and-perks" text="Benefits and perks"></cta-arrow>
