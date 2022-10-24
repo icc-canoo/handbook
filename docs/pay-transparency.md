@@ -29,20 +29,20 @@ We pay every employee $75/month for use of their personal mobile phone and home 
 If you speak and write at a professional level in both English and French, we'll increase your base pay by 10%.
 
 ### Performance bonuses
-For some positions at the ICC, part of your compensation will comprise of a performance bonus. This will be listed in the job description. Here's how it works (if you're eligible):
+For some positions at the ICC, a performance bonus will form part of your overall compensation. This will be listed in the job description. Here's how it works (if you're eligible):
 
 1. Your contract will specify a maximum annual bonus amount, usually expressed as a percentage of your base pay. For example, if your base pay is $80k with a 10% maximum bonus, you can make up to $8k extra after 12 months.
-2. Bonus payments are determined objectively, using numbers only. __*Subjectivitiy plays no part in the process*__. Within six weeks of starting, you and your manager will agree in writing to a *quantitative* framework to govern your bonus. Here is a (made-up) example using the $8k max bonus we just talked about.
+2. Bonus payments are determined objectively, using numbers only. __*Subjectivity plays no part in the process*__. Within six weeks of starting, you and your manager will agree in writing to a *quantitative* framework to govern your bonus. Here is a made-up example using the $8k max bonus we just talked about.
 
 Item | Portion | Max amount
 ---|:---:|:---:
 Big new program launched on time | 25% | $2k
 10k participants in program  | 50% | $4k
 Avg. 4-star reviews from participants | 25% | $2k
-||__$8k__
+|__100%__|__$8k__
 
 
-3. At the end of the year, we review the numbers and pay the amount earned. Unless the bonus item is binary (i.e. all or nothing), you will be paid proportional to your achievement. A more concrete example makes this easier to understand:
+3. 12 months after your start, we review the numbers and pay the amount you earned. Unless the bonus item is binary (i.e. all or nothing), you will be paid proportional to your achievement. A more concrete example makes this easier to understand:
 
 Item | Max amount | Achievement | Payment
 ---|:---:|:---:|---:
@@ -51,6 +51,6 @@ Big program launched on time | $2k | Yes! (100%) | $2k
 Avg. 4-star reviews from participants | $2k | 3-stars (75%) | $1.5k
 | | |__$5.5k__
 
-Bonus payments are subject to the same withholdings as normal salary. 
+Bonus payments are subject to the same withholdings as normal salary.
 
 <cta-arrow target="benefits-and-perks.md" text="Benefits and perks"></cta-arrow>

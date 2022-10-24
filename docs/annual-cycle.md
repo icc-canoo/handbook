@@ -5,17 +5,15 @@
 - All-staff gather in Toronto to work and have some fun.
 
 ## July 1
-- Canada Day. We normally have a big citizenship ceremony.
+- Canada Day. We normally host a big enhanced citizenship ceremony.
 - Q2 begins. The summer season is really intense for the Canoo team.
 - All-staff gather in Toronto to work and have some fun.
 - Summer hours begin
 
-## August
-- Audit published
 
-## September (after labour day)
+## September (after Labour Day)
 - Normal hours resume
-- Annual report published
+- Annual report goes out
 
 ## October 1
 - Q2 Begins
