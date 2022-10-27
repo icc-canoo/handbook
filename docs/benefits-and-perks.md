@@ -4,8 +4,6 @@
 
 All full-time employees are enrolled in our comprehensive medical benefits package, provided by Sun Life. The package can be extended to cover your spouse and/or dependents, and includes the following:
 
-__HOW MUCH OF THE PREMIUM DO WE PAY? HOW MUCH COVERAGE DOES IT COVER?__
-
 Benefit | Coverage level
 ---|---
 __Prescription Drugs__ | 90%
