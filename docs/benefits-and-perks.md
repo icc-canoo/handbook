@@ -27,7 +27,7 @@ Your manager must approve all vacation requests, and we ask them to approve requ
 
 Vacation is accrued as you work. We're not super sticklers about holiday accrual but we expect you to be reasonable; For example, you can't take your full vacation a month after you start, but if you're taking a week off and have only earned 4 days by that time in the year, we'll let it slide. It's ultimately up to your manager, who we trust to exercise their discretion appropriately.
 
-__*We strongly encourage employees to use their full vacation allowance*__. If you don't use it, you lose it. It cannot be carried forward into the following fiscal year and you will not be paid cash in lieu of vacation.
+__*We strongly encourage employees to use their full vacation allowance*__. If you don't use it, you'll lose it. It cannot be carried forward into the following fiscal year and you will not be paid cash in lieu of vacation.
 
 ### Holiday closures
 The ICC tends to close for a week or so around the New Year period. This time off is fully paid and does not count against your vacation allowance.
@@ -43,19 +43,19 @@ If you have a medical condition you know will take you away from work regularly,
 
 ### Summer Hours
 
-We take Friday afternoons off between July 1 and August 31 every year. We also provide an extra day off during summer long weekends, to give you an additional break.
+We take Friday afternoons off between July 1 and August 31 every year. We also tack an extra day onto during summer long weekends, turning three days off into four.
 
-These days are discretionary and are not vacation days. If there is an urgent situation to attend to, we may have to ask you to work during this time and you will receive no lieu time in exchange. Obviously we try not to do this unless the circumstances are really urgent.
+These days are discretionary and are not vacation days. If there is an urgent situation to attend to, we may have to ask you to work during this time and you will receive no lieu time in exchange. Obviously, we try not to do this unless the circumstances are really urgent.
 
 ## Family Leave
 
 If you are the primary caregiver of a new child, you can take up to 18-months of leave, as prescribed by federal law. We will top up your EI payment to the amount of your usual salary for 4 weeks. If you leave the ICC within 6 months of your parental leave ending, you will be required to return the top-up amount.
 
-If you are the secondary caregiver of a new child, you can take up to 4 weeks leave.
+If you are the secondary caregiver of a new child, you can take up to 4 weeks' leave, though this is unpaid.
 
 In both cases, we will provide the necessary paperwork to allow you to claim EI for the period of your leave.
 
-If you live in Quebec, the provincial government subsidizes federal parental leave payments quite generously. If the combined value of government payments is equivalent to your salary during the first month of parental leave, we will not pay a top-up.
+If you live in Quebec, the provincial government subsidizes parental leave quite generously. If the combined value of provincial and federal government payments is equivalent to your salary during the first month of parental leave, we will not pay a top-up.
 
 ## Bereavement Leave
 
