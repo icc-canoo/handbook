@@ -12,6 +12,6 @@ This handbook is also an opportunity for you to tell us if what we think is happ
 
 Ready? Let's do this.
 
-*P.S. This handbook is inspired by the one created for employees at Basecamp. Many thanks to the Basecamp team for crafting such a thoughtful document and for making it open source for everyone to use. This handbook is open source too. Just [fork on Github](https://github.com/icc-canoo/handbook).*
+*P.S. This handbook is inspired by the one created for employees at Basecamp. Many thanks to the Basecamp team for crafting such a thoughtful document and for making it open source for everyone to use. This handbook is open source too. [View it on Github](https://github.com/icc-canoo/handbook).*
 
 <cta-arrow target="why-icc" text="Why ICC"></cta-arrow>

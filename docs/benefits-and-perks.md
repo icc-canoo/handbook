@@ -47,6 +47,12 @@ We take Friday afternoons off between July 1 and August 31 every year. We also t
 
 These days are discretionary and are not vacation days. If there is an urgent situation to attend to, we may have to ask you to work during this time and you will receive no lieu time in exchange. Obviously, we try not to do this unless the circumstances are really urgent.
 
+### Bereavement Leave
+
+When you lose a loved one, you can take paid time off to mourn, make arrangements, settle family affairs, and attend funeral or memorial services. Please let your manager know your plans as soon as you can so they can arrange for your absence.
+
+You can take ten days of bereavement leave for the death of a spouse or partner, child or child-in-law, parent or parent-in-law, or sibling or sibling-in-law. You can take three days of bereavement leave for the death of a grandparent, niece or nephew, cousin, or close friend. These caps are not to say you must return to work after so many days; you can use any of your available vacation time if you find you need more time off after bereavement leave. And if you know you’ll be away from work for much longer than outlined above, please talk to your manager to discuss that special case.
+
 ## Family Leave
 
 If you are the primary caregiver of a new child, you can take up to 18-months of leave, as prescribed by federal law. We will top up your EI payment to the amount of your usual salary for 4 weeks. If you leave the ICC within 6 months of your parental leave ending, you will be required to return the top-up amount.
@@ -57,11 +63,6 @@ In both cases, we will provide the necessary paperwork to allow you to claim EI 
 
 If you live in Quebec, the provincial government subsidizes parental leave quite generously. If the combined value of provincial and federal government payments is equivalent to your salary during the first month of parental leave, we will not pay a top-up.
 
-## Bereavement Leave
-
-When you lose a loved one, you can take paid time off to mourn, make arrangements, settle family affairs, and attend funeral or memorial services. Please let your manager know your plans as soon as you can so they can arrange for your absence.
-
-You can take ten days of bereavement leave for the death of a spouse or partner, child or child-in-law, parent or parent-in-law, or sibling or sibling-in-law. You can take three days of bereavement leave for the death of a grandparent, niece or nephew, cousin, or close friend. These caps are not to say you must return to work after so many days; you can use any of your available vacation time if you find you need more time off after bereavement leave. And if you know you’ll be away from work for much longer than outlined above, please talk to your manager to discuss that special case.
 
 ## Employee Assistance Program (EAP)
 Through our insurance provider, Sun Life, all ICC employees have access to an Employee Assistance Program called Sun Life RightDirections.
