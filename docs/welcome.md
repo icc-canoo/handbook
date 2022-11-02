@@ -2,7 +2,7 @@
 
 Welcome to the ICC!
 
-This handbook is designed to get you up-to-speed for as you get set to join our team. It lays out everything you need to know about our purpose, programs, culture, process and perks.
+This handbook is designed to get you up-to-speed as you get set to join our team. It lays out everything you need to know about our purpose, programs, culture, process and perks.
 
 For over 15 years, we didn't have a formal handbook. We figured people would pick things up gradually as they settled into their teams. That may have been a naïve assumption at the best of times, but with remote work here to stay (at least in some capacity), we knew we had to change. Introduction by immersion is really tough when you're not physically immersed in the operation (i.e. WFH). If you're not at the office, you can't overhear random conversations or have a chance encounter with someone on another team. There's no opportunity for osmosis. We decided to write down the key points so you can hit the ground running no matter where you're doing your work from.
 

@@ -6,7 +6,7 @@
 
 ## July 1
 - Canada Day. We normally host a big enhanced citizenship ceremony.
-- Q2 begins. The summer season is really intense for the Canoo team.
+- Q2 begins. Summer is high season for the Canoo team.
 - All-staff gather in Toronto to work and have some fun.
 - Summer hours begin
 
@@ -23,12 +23,15 @@
 - Giving Tuesday
 
 ## December
-- Year-end giving kicks into high gear
+- Year-end fundraising kicks into high gear
 - Office closed for a bit before New Year
 
 ## January
 - Q4 starts. This can be an intense period.
 - All-staff gather in Toronto to work and have some fun.
+
+## February
+- We prepare our budgets for the coming fiscal year.
 
 ## March 31
 - End of fiscal year

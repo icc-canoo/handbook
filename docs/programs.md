@@ -6,7 +6,7 @@ In partnership with Immigration, Refugees, and Citizenship Canada (i.e. the fede
 1. 100% of our ceremonies begin with a welcome from an Indigenous representative. Standard ceremonies don't include this.
 2. Our ceremonies feature special guest speakers. Past speakers have included Chris Hadfield, Prime Minister Trudeau, the Rt. Hon. Adrienne Clarkson, David Suzuki, and other highly-respected Canadians.
 3. All our ceremonies have an artistic component, including a local anthem singer and sometimes a second performance.
-4. Our in-person ceremonies feature our signature roundtables, where new citizens and their families join prominent community members to speak openly citizenship and what it means.
+4. Our in-person ceremonies feature our signature roundtables, where new citizens and their families join prominent community members to speak openly about citizenship and what it means.
 
 ## Canoo
 The Canoo Access Pass gives newcomers VIP access to the very best of Canada -- *for free*. Members (and up to 4 accompanying kids) can visit over 1,400 museums, parks, historical sites, science centres, and other attractions in every province and territory. Members also get exclusive discounts with leading brands like Air Canada, VIA Rail, Aldo, Canadian Tire, LiveNation, Cirque du Soleil, and many many more!
@@ -27,6 +27,6 @@ This prize is awarded annually to a prominent global figure who embodies a stead
 
 The ICC held 6 Degrees events in several Canadian cities, but also in Mexico, The Netherlands, Germany, and Switzerland. Some pretty cool people attended and the experience was transformational.
 
-6 Degrees was launched in response to the Syrian refugee crisis of 2015, when the world was reluctant to accept those seeking asylum. The plight of asylum seekers has not disappeared but over the years, 6 Degrees drifted away from this theme and we eventually decided that its time had come and gone. The last 6 Degrees was held in 2020. The memories will live on forever.
+6 Degrees was launched in response to the Syrian refugee crisis of 2015, when the world was reluctant to accept those seeking asylum. The plight of asylum seekers has not disappeared but over the years, 6 Degrees drifted away from this theme and we eventually decided that its time had come and gone. The last 6 Degrees was held in 2020.
 
 <cta-arrow target="cultural-aspirations" text="Cultural aspirations"></cta-arrow>

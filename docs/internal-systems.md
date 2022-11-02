@@ -10,12 +10,12 @@ Project management software for moving large projects to completion in an orderl
 
 
 ## Ceredian Powerpay
-This is where you access pay stubs, update payment details, find your T4, request vacation and log sick/personal days.
+This is where you access pay stubs, update payment details, find your T4, find your employment agreement(s) and request vacation and log sick/personal days. Sometimes, you’ll be asked to electronically sign your agreement to policies or other documents through this system too.
 
 [https://clients.powerpay.ca/selfservice/login](https://clients.powerpay.ca/selfservice/login)
 
 ## Microsoft Viva Goals (formerly Ally.io)
-This is where your OKRs are tracked and updated. The easiest way to use this is via the MS Teams integration, but you can also login with your browser. You can also set up more complicated integrations with Salesforce, a database, or even a spreadsheet so your OKRs update automatically.
+This is where your OKRs are tracked and updated. The easiest way to use this is via the MS Teams integration, but you can also login with your browser. You can also set up integrations with Salesforce, a database, or even a spreadsheet,  so your OKRs update automatically.
 
 [https://goals.microsoft.com/](https://goals.microsoft.com/)
 

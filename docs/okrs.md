@@ -3,7 +3,9 @@ Part of our cultural aspirations are to always be deliberate. Reacting to whatev
 
 The OKR system was invented at Intel in the 1970s and is well-established for companies and charities of all sizes. Google adopted the OKR system when they had just 8 employees and they still use it today. The Bill and Melinda Gates Foundation uses the system too. And so do we.
 
-Each department sets their OKRs every quarter. We also set quarterly OKRs for the full organization. The process of picking OKRs can be a bit intense but it's well-worth it. These decisions will govern your work for the next three months and lay the groundwork for the longer term. If you're going to devote so much energy to something, shouldn't you take the time to think and through and pick your course deliberately?
+Each department sets their OKRs every quarter, culminating a team-wide session where every department reflects on the past quarter and shares their plans for the next one. It’s a fun, team-wide exercise. Everyone is involved. Everyone gets to see how various teams and goals evolve. We also set quarterly OKRs for the full organization.
+
+The process of picking OKRs can be a bit intense but it's well-worth it. These decisions will govern your work for the next three months and lay the groundwork for the longer term. If you're going to devote so much energy to something, shouldn't you take the time to think and through and pick your course deliberately?
 
 ## The OKR magic
 OKRs help us do four things:
@@ -27,5 +29,8 @@ You can learn more about OKRs [here](https://www.whatmatters.com/get-started). W
 3. __Set in stone__. Things happen. It's OK to adjust our OKRs mid-cycle when circumstances fundamentally change, or when something is clearly not going to work and doesn't warrant more energy. As always, we just ask that changes be made deliberately, informed by full and reasoned debate.
 
 4. __Always easy at first__. The OKR system can take some time to get used to. Don't worry. That's normal. Stick with it.
+
+## The most important thing
+Update your OKRs at least once per week. We typically do it on Fridays. Doing this keeps managers off your back (no more calls asking for status updates) and also helps to remind you what work is really important and what can be done later, or even not at all.
 
 <cta-arrow target="annual-cycle" text="Annual cycle"></cta-arrow>

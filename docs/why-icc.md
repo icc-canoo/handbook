@@ -56,19 +56,20 @@ Newcomers' contributions to Canada's current and future success extend far beyon
 Thanks to newcomers and their kids who quite literally wrap themselves in the Maple Leaf, Canada qualified for the 2022 World Cup, ending a 36-year drought.
 
 <bordered-image alt="Canada men's soccer tea" src="./_media/soccer-qualified.jpeg"></bordered-image>
+> Want to go deeper? Read Daniel's 2022 Toronto Star op-ed: [Canadian soccer proves the power of citizenship](https://www.thestar.com/opinion/contributors/2022/02/07/canadian-soccer-proves-the-power-of-citizenship.html).
 
-One of Canada's biggest hit shows, which succeeded domestically and abroad, is _Kim's Convenience_, written by Korean immigrant, Ins Choi. It's a story that can only happen here, and and audiences around the world lapped it up.
+One of Canada's biggest hit shows, which succeeded domestically and abroad, is _Kim's Convenience_, written by Korean immigrant, Ins Choi. It's a story that can only happen here, and audiences around the world lapped it up.
 
 <bordered-image alt="Kim's convenience cast covershot" src="./_media/kim-cover.png"></bordered-image>
 
-Tareq Hadhad has become an international sensation since arriving in Canada in 2016 as a refugee from Syria. He has built a hugely successful business, Peace by Chocolate, which is a major contributor to community organizations across the country (including the ICC). This virtuous enterprise has garenered tonnes of attention, showing the world why Canada's openness to newcomers is such a core strength of ours. Tareq's story has now been turned into a feature film, with Canada's welcoming disposition playing a central role. Tareq became a citizen at the first available opportunity and joined our Canoo program soon after.
+Tareq Hadhad has become an international sensation since arriving in Canada in 2016 as a refugee from Syria. He has built a hugely successful business, Peace by Chocolate, which is a major contributor to community organizations across the country (including the ICC). This virtuous enterprise has garnered tonnes of attention, showing the world why Canada's openness to newcomers is such a core strength of ours. Tareq's story has now been turned into a feature film, with Canada's welcoming disposition playing a central role. Tareq became a citizen at the first available opportunity and joined our Canoo program soon after.
 
 <bordered-image alt="Tareq Hadhad becomes a Canadian citizen" src="./_media/tareq-citizenship.jpeg"></bordered-image>
 
 ### Crisis of confidence emerging
 Overall, Canada remains a great place for immigrants to settle. But there are storm clouds emerging that we can't ignore.
 
-For starter's, the number of immigrants who become citizens within 10 years of arrival plummeted by almost 20% between 2001 and 2016.
+For starters, the number of immigrants who become citizens within 10 years of arrival plummeted by almost 20% between 2001 and 2016.
 
 <bordered-image alt="Chart of Canada's declining citizenship rates" src="./_media/declining-citizenship-rates.png"></bordered-image>
 
@@ -83,7 +84,7 @@ We found this pretty surprising, so in March 2022, we polled about 2,000 immigra
 2. __Newcomers are having a harder time realizing their quality of life expectations__, causing fewer to choose Canadian citizenship and leading (too) many to second-guess their decision to make Canada home. If this trend continues, Canada is in *serious* trouble.
 
 3. __The ICC is the only national organization addressing this situation of vital national importance at full scale__.
-    * Our enhanced citizenship ceremonies celebrate make the once-in-a-lifetime milestone of becoming Canadian even more special and desirable.
+    * Our enhanced citizenship ceremonies celebrate the once-in-a-lifetime milestone of becoming Canadian even more special and desirable.
     * Canoo can help every single newcomer have a positive early experience of Canada, helping them to get through a difficult transition by having fun and making connections. Over 500,000 people have already benefitted from Canoo.
     * Our research keeps an eye on the journey from arrival to citizenship, identifying areas where people get knocked off the track and advising our programming teams about how we can do a better job of keeping people on it.
 

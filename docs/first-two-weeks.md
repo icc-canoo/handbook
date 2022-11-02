@@ -2,7 +2,7 @@
 
 Starting a new job is often an intense an experience. You're really excited but maybe a bit nervous too. You want to contribute, but can easily become overwhelmed as new people, programs, practices, information, and expectations fly at you.
 
-Our leadership team has done a lot of thinking about the experience of starting at the ICC and how getting started on the right foot is essential to building a long and fruitful career at the ICC. We've designed a fairly structured onboarding process to give you everything you need at this critical time, and we wrote in down here so you know exactly what to expect, and to alleviate any worry you may have before you begin.
+Our leadership team has done a lot of thinking about the experience of starting at the ICC and how getting started on the right foot is essential to building a long and fruitful career at the ICC. We've designed a fairly structured onboarding process to give you everything you need at this critical time, and we wrote it down here so you know exactly what to expect, and to alleviate any worry you may have before you begin.
 
 Here's what your first two weeks will look like:
 
@@ -12,7 +12,7 @@ Tanya, our Office Manager, will send you your laptop and logins and all that fun
 ## Week 1
 
 ### Your first day
-In all likelihood, your first day will be a Monday. We want you to stay home that day and not work. Don't worry: you'll get paid and this doesn't count towards your paid holiday allowance. Spend the time reading this handbook, doing laundry, going for a walk, seeing friends, or anything else you need to do to clear your head and get ready for this next phase in your career.
+Your first day will be a Monday. We want you to stay home that day and not work. Don't worry: you'll get paid and this doesn't count towards your paid holiday allowance. Spend the time reading this handbook, doing laundry, going for a walk, seeing friends, or anything else you need to do to clear your head and get ready for this next phase in your career.
 
 ### Your second day
 We have a policy of holding no meetings on Tuesdays (we gave it the highly original name of No Meeting Tuesdays), but your first Tuesday is an exception to that rule. We want your team to be available to meet you and we know they'll have no meetings that day, so it's the perfect time to get everyone together.
@@ -36,13 +36,13 @@ Finally, you'll end the week with your first OKR checkin and our Friday afternoo
 We'll try to give you space to advance your project, since you'll be presenting it to the team at the end of this week. Your buddy and manager will still check-in regularly to make sure you have what you need to succeed.
 
 ### Tuesday
-You'll get an info dump from our Ideas & Insights team containing a whole whack of information, publications, videos, and other materials to help you become an expert in Canada's immigration system, the contemporary immigrant experience, and the impacts of our programs on newcomers and on the country. You don't need to review the whole trove right away, but you will need to submit a reflection on this the following week, so schedule some time to get through the material over the coming days.
+You'll get an info dump from our Ideas & Insights team containing a whole whack of information, publications, videos, and other materials to help you become an expert in Canada's immigration system, the contemporary immigrant experience, and the impacts of our programs on newcomers and on the country. You don't need to review the whole trove right away, but you will need to submit a reflection on this in your third week, so schedule some time to get through the material over the coming days.
 
 ### Wednesday
 The first draft of your project presentation is due at lunchtime. If you live near your manager and are nice to them, they may even buy you that lunch!
 
 ### Thursday
-You'll have the chance to make any adjustments your manager recommends, and the chance to practice your presentation with your buddy. We'll also give you an ICC scavenger hunt to enjoy.
+You'll have the chance to make any adjustments your manager recommends, and the chance to practice your presentation with your buddy. We'll also give you an ICC scavenger hunt as a fun brain teaser. There may or may not be prizes.
 
 ### Friday
 Your manager will give final sign off on your presentation by lunchtime. You can chat with your buddy or do whatever you want for the next couple hours. You'll do another OKR checkin around 3pm, and then head to the Meeting of the Minds to show the rest of us what you've been working on!

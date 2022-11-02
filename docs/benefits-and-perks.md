@@ -23,11 +23,12 @@ Your very first day is a fully paid day off that doesn't count against your vaca
 ### Vacation
 Everybody at the ICC receives a minimum three weeks of paid vacation. Some positions offer four weeks.
 
-Your manager must approve all vacation requests, and we ask them to approve requests by default unless there is a good reason why they can't,
+Your manager must approve all vacation requests, and we ask them to approve requests by default unless there is a good reason why they can't. Still, we reserve the right to black out certain periods of vacation before or during a major project, event or launch when your manager deems it necessary.
 
 Vacation is accrued as you work. We're not super sticklers about holiday accrual but we expect you to be reasonable; For example, you can't take your full vacation a month after you start, but if you're taking a week off and have only earned 4 days by that time in the year, we'll let it slide. It's ultimately up to your manager, who we trust to exercise their discretion appropriately.
 
 __*We strongly encourage employees to use their full vacation allowance*__. If you don't use it, you'll lose it. It cannot be carried forward into the following fiscal year and you will not be paid cash in lieu of vacation.
+
 
 ### Holiday closures
 The ICC tends to close for a week or so around the New Year period. This time off is fully paid and does not count against your vacation allowance.
@@ -37,7 +38,7 @@ We do not limit the number of sick days you can take in a year. We take a common
 
 You can use these days for personal reasons too. As was just said, you don't need to provide a reason. Just be reasonable and honest. Abusing the honour system may result in disciplinary measures.
 
-[SALIMAH TO DOUBLE CHECK] If you're out sick for 3 days, your manager can ask you for a doctor's note. If you're out more than 5 days, you transition to personal leave, which may be covered by medical insurance and/or EI in some cases.
+[SALIMAH TO DOUBLE CHECK] If you're out sick for 3 days, your manager can ask you for a doctor's note. If you're out more than 5 days, you transition to unpaid leave, which may be covered by our benefits plan and/or EI.
 
 If you have a medical condition you know will take you away from work regularly, please work with your manager for accommodations.
 

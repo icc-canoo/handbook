@@ -13,7 +13,7 @@ Remote work is obviously not a fad and we're fine for you to work from home. We 
 If you are working from home, we ask that you try to work from a private room with a closed door. Some of your calls may be confidential, and you need to keep them that way, no matter where you are.
 
 ## Parks, coffee shops, and other public places
-By all means, get out of the house! Just make sure not to take any sensitive calls in public places or work on sensitive or confidential documents in places where someone could look over your shoulder.
+By all means, get out of the house! Just make sure not to take any sensitive calls in public places or work on sensitive or confidential documents in places where someone could look over your shoulder. You should have a conversation with your manager about the types of activities that are conducive to public workspaces vs. those that aren’t.
 
 __*NB: We STRONGLY advise that you connect to the internet using a VPN when working from a public place. Public wifi is a notorious hangout spots for password thieves.*__
 
