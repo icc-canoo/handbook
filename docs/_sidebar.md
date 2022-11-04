@@ -1,6 +1,7 @@
 * [Welcome](/)
 * [Why we exist](why-icc.md)
 * [Programs](programs.md)
+* [Leadership](leadership.md)
 * [Cultural aspirations](cultural-aspirations.md)
 * [Where we work](where-we-work.md)
 * [OKRs](okrs.md)

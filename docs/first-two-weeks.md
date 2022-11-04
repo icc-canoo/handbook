@@ -4,6 +4,8 @@ Starting a new job is often an intense an experience. You're really excited but 
 
 Our leadership team has done a lot of thinking about the experience of starting at the ICC and how getting started on the right foot is essential to building a long and fruitful career at the ICC. We've designed a fairly structured onboarding process to give you everything you need at this critical time, and we wrote it down here so you know exactly what to expect, and to alleviate any worry you may have before you begin.
 
+Over your first two weeks, you’ll be on two learning streams. You'll learn about the ICC, our processes, culture and organization wide priorities. We like to call this "setting the stage". But you'll also learn about the specifics of what you’ll need to succeed in your new role, including your team's processes and objectives and learning how to use the tools you'll depend on every day.   
+
 Here's what your first two weeks will look like:
 
 ## Before you start
@@ -17,9 +19,9 @@ Your first day will be a Monday. We want you to stay home that day and not work.
 ### Your second day
 We have a policy of holding no meetings on Tuesdays (we gave it the highly original name of No Meeting Tuesdays), but your first Tuesday is an exception to that rule. We want your team to be available to meet you and we know they'll have no meetings that day, so it's the perfect time to get everyone together.
 
-You'll start the day by meeting your buddy quickly before moving on to a 1:1 with your manager, who will brief you on your team's OKRs and give you a personal project that you'll complete by the end of your second week and present to the greater team.
+You'll start the day by meeting your buddy quickly before moving on to a 1:1 with your manager, who will brief you on your team's OKRs and give you a personal project that you'll complete by the end of your second week and present to the greater team. You’ll also receive information about your expected performance metrics covering tyour first three months. These standards should be very clear and attainable.
 
-A quick aside about these onboarding projects so you don't get the wrong idea. Of course we understand that people who just started have a lot to learn before they get up to full speed. We set our expectations accordingly and build an assignment that's tailored for you and that we know you're more than capable of rocking. You won't have to pull 14 hour days to complete this project, and you'll get lots of support and encouragement along the way. Ultimately, this is a very authentic way to learn the ropes while actually doing the job you came to do. And the finale is always lots of fun.
+A quick aside about these onboarding projects so you don't get the wrong idea. Of course we understand that people who just started a new job have a lot to learn before they're up to full speed. We set our expectations accordingly and build an assignment that's tailored for you and that we know you're more than capable of rocking. You won't have to pull 16 hour days to complete this project, and you'll get lots of support and encouragement along the way. Ultimately, this is a very authentic way to learn the ropes while actually doing the job you came to do. And the finale is always lots of fun.
 
 After meeting your manager, you'll meet your new team and then get to work.
 
