@@ -2,7 +2,7 @@
 
 ## April 1
 - New fiscal year begins
-- All-staff gather in Toronto to work and have some fun.*<sup>[see note below]</sup>
+- All-staff gather in Toronto to work and have some fun. (See note below)
 
 ## July 1
 - Canada Day. We normally host a big enhanced citizenship ceremony.
@@ -36,6 +36,6 @@
 ## March 31
 - End of fiscal year
 
-\* *It's important to acknowledge that some people find these meet-ups tiring. There's lots of together time and lots of programming at these things. Not everyone is an extrovert. We encourage everyone to paritipate in the full program, but if you need some time away from the group for quiet work or to take a break, that's fine. Just make sure you let your manager know.*
+*NOTE*: It's important to acknowledge that some people find these meet-ups tiring. Not everyone is an extrovert, and there's a lot of together time and a lot of programming at these things. We encourage everyone to paritipate in the full program, but if you need some time away for quiet work or just to take a break, that's fine. Just let your manager know.
 
 <cta-arrow target="first-two-weeks" text="Your first two weeks"></cta-arrow>
