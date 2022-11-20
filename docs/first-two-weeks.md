@@ -9,7 +9,7 @@ Over your first two weeks, you’ll be on two learning streams. You'll learn abo
 Here's what your first two weeks will look like:
 
 ## Before you start
-Tanya, our Office Manager, will send you your laptop and logins and all that fun stuff before you start, so you're ready to go from Day 1. You'll also receive info about your onboarding buddy (yes, we do that), and we hope you'll share a bit about yourself with your buddy in advance too -- especially things that don't show up on your CV.
+Tanya, our Office Manager, will send you your laptop and logins and all that fun stuff before you start, so you're ready to go from Day 1. Your calendar should be pre-populated with a few key dates and milestones pertaining to your onboarding. You'll also receive info about your onboarding buddy (yes, we do that), and we hope you'll share a bit about yourself with your buddy in advance too -- especially things that don't show up on your CV.
 
 ## Week 1
 
@@ -21,7 +21,7 @@ We have a policy of holding no meetings on Tuesdays (we gave it the highly origi
 
 You'll start the day by meeting your buddy quickly before moving on to a 1:1 with your manager, who will brief you on your team's OKRs and give you a personal project that you'll complete by the end of your second week and present to the greater team. You’ll also receive information about your expected performance metrics covering your first three months. These standards should be very clear and attainable.
 
-A quick aside about these onboarding projects so you don't get the wrong idea. Of course we understand that people who just started a new job have a lot to learn before they're up to full speed. We set our expectations accordingly and build an assignment that's tailored for you and that we know you're more than capable of rocking. You won't have to pull 16 hour days to complete this project, and you'll get lots of support and encouragement along the way. Ultimately, this is a very authentic way to learn the ropes while actually doing the job you came to do. And the finale is always lots of fun.
+A quick aside about these onboarding projects so you don't get the wrong idea. Of course we understand that people who just started a new job have a lot to learn before they're up to full speed. We set our expectations accordingly and build an assignment we know you can ace. You won't have to pull 16 hour days to complete this project, and you'll get lots of support and encouragement along the way from both your buddy and your manager. Ultimately, this is an  authentic way to learn the ropes while actually doing the job you came to do. And the finale is always lots of fun.
 
 After meeting your manager, you'll meet your new team and then get to work.
 

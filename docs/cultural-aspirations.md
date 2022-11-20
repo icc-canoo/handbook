@@ -10,10 +10,10 @@ We aspire to have a culture that is:
 
 2. __Deliberate__. We don't run around like chickens with their heads cut off, reacting frantically to whatever comes at us. We take our time to think things through, be strategic, and make deliberate choices about how we want to spend our limited energy.
 
-3. __Hungry__. Not many people can say that their work can change the course of a whole country. We can. We try to make the most of this privilege by pushing each other to always do better and supporting each other as we do. We encourage each other to adopt a 10x mentality -- to think maximally.
+3. __Hungry__. Not many people can say that their work can change the course of a whole country. We can. We try to make the most of this privilege by pushing each other to always do better and supporting each other as we do. We encourage each other to adopt a 10x mentality -- to think maximally. Big ideas belong here.
 
 4. __Human__. We're all just people. We're professional, but we don't take ourselves too seriously. We mostly dress informally. No matter our rank, we're direct, honest, and straightforward with each other. We don't beat around the bush or use evasive or performative language. We've got no time for passive (or active) aggression. Issues inevitably come up. We deal with them respectfully and professionally.
 
-5. __Always learning__. We make mistakes. We try things that don't work. Then we come up with new ideas.
+5. __Always evolving__. Every new ICC member brings in a new richness to our work culture. We welcome and encourage new ideas. We make mistakes. We try to learn from them, adjust, and move forward.
 
 <cta-arrow target="where-we-work" text="Where we work"></cta-arrow>
