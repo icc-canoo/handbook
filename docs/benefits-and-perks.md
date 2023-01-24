@@ -29,6 +29,8 @@ Vacation is accrued as you work. We're not super sticklers about holiday accrual
 
 __*We strongly encourage employees to use their full vacation allowance*__. If you don't use it, you'll lose it. It cannot be carried forward into the following fiscal year and you will not be paid cash in lieu of vacation.
 
+### Birthdays off
+Your birthday may not be a statutory holiday, but it's still important! At the ICC, you can take it as a paid day off to celebrate with family and friends. Note, you must take off the actual day of your birthday. If your birthday falls on a weekend, you can choose to take off the Friday before or the Monday after.
 
 ### Holiday closures
 The ICC tends to close for a week or so around the New Year period. This time off is fully paid and does not count against your vacation allowance.
