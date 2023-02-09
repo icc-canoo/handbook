@@ -40,7 +40,7 @@ We do not limit the number of sick days you can take in a year. We take a common
 
 You can use these days for personal reasons too. As was just said, you don't need to provide a reason. Just be reasonable and honest. Abusing the honour system may result in disciplinary measures.
 
-[SALIMAH TO DOUBLE CHECK] If you're out sick for 3 days, your manager can ask you for a doctor's note. If you're out more than 5 days, you transition to unpaid leave, which may be covered by our benefits plan and/or EI.
+If you're out sick for 3 days, your manager can ask you for a doctor's note. If you're out more than 5 days, you transition to unpaid leave, which may be covered by our benefits plan and/or EI.
 
 If you have a medical condition you know will take you away from work regularly, please work with your manager for accommodations.
 
