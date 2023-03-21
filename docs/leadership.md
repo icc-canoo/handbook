@@ -8,16 +8,15 @@ Daniel is also a qualified software developer. He speaks English, French and Spa
 ## Salimah Dhalla -- Senior Director, Strategy and Operations
 Born in Nairobi, Kenya, Salimah is the ICC’s resident newcomer advocate, bringing the perspective of our beneficiaries into every program and decision. Since 2010 Salimah has worked on policy development and program implementation initiatives with the government, Indigenous communities, and newcomers. Salimah holds an undergraduate degree from Carleton University and a Master’s in Law from the University of Toronto.
 
-## Aruna Aysola -- Senior Director, Philanthropy
-Aruna left a successful career in the tech sector in Silicon Valley to support human rights issues both in Canada and around the world. She brings over 23 years of experience and leadership as a generalist fundraiser with a specialization in Major Gifts, having worked at organizations such as the Canadian Civil Liberties Association, Plan International Canada, and Canadian Physicians for Aid and Relief. A naturalized citizen, Aruna is passionate about working with philanthropists and the donor community to deliver programs that inspire, celebrate, and foster citizenship amongst newcomers to Canada.
-
+## Mike Crum -- Senior Director, Philanthropy
+Mike just joined us. Bio coming soon.
 
 ## George Carothers -- Senior Director, Ideas and Insights
 George is a research professional with global experience spanning academia, consulting, and non-profit management. A deep personal commitment drives him to high-impact public interest work and the possibility of a more equitable world. In the UK, Asia, and North America, he has worked with citizens, public servants, business executives and Boards of Directors to build more inclusive, informed, and empowered societies.
 
 Born in Canada to a South Indian physician and a Canadian international development practitioner, George spent his youth between three continents. He holds degrees from the University of Waterloo (B.E.s), University College London (MSc) and the University of Cambridge (Ph.D.). His family is spread across Canada, India and Japan
 
-## Tarun Tripathi -- Senior Director, Digital Products
+## Tarun Tripathi -- Senior Director, Growth and Innovation
 Tarun is a marketing and growth professional with 20+ years of experience across media industries, from film to social and digital media and branded content. He was previously voted India’s Best Marketer and won two Cannes Lions. In addition, Tarun is a passionate teacher with 10+ years of experience teaching his course on “The Business of Entertainment” in top-tier business schools across India.
 
 Tarun immigrated to Canada from India in 2020.
