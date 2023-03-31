@@ -9,7 +9,7 @@ Daniel is also a qualified software developer. He speaks English, French and Spa
 Born in Nairobi, Kenya, Salimah is the ICC’s resident newcomer advocate, bringing the perspective of our beneficiaries into every program and decision. Since 2010 Salimah has worked on policy development and program implementation initiatives with the government, Indigenous communities, and newcomers. Salimah holds an undergraduate degree from Carleton University and a Master’s in Law from the University of Toronto.
 
 ## Mike Crum -- Senior Director, Philanthropy
-Mike just joined us. Bio coming soon.
+Mike has four decades of leadership experience in philanthropy ranging from volunteer-led community organizations to billion-dollar university capital campaigns. Originally from the US, he moved to Canada when his partner accepted a post at the University of Toronto. He embraces Canada and the opportunity to raise his children in such a diverse country.
 
 ## George Carothers -- Senior Director, Ideas and Insights
 George is a research professional with global experience spanning academia, consulting, and non-profit management. A deep personal commitment drives him to high-impact public interest work and the possibility of a more equitable world. In the UK, Asia, and North America, he has worked with citizens, public servants, business executives and Boards of Directors to build more inclusive, informed, and empowered societies.
