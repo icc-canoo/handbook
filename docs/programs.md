@@ -13,7 +13,7 @@ The Canoo Access Pass gives newcomers VIP access to the very best of Canada -- *
 
 The purpose of Canoo is to help newcomers fall in love with Canada, and it works. 86% of members report an enhanced sense of belonging in Canada after 1 year. 92% continue visiting the places they discovered through Canoo after their membership ends.
 
-As a newcomer-facing service, Canoo has its own brand identity. Checkout [canoo.ca](https//:canoo.ca) to get a sense of it.
+As a newcomer-facing service, Canoo has its own brand identity. Checkout [canoo.ca](https://canoo.ca) to get a sense of it.
 
 ## Ideas & Insights (aka The Strategy Hub)
 I&I is Canada's leading centre of expertise about citizenship and the contemporary immigration experience. This (small but mighty) team conducts original research and public opinion polling, trains our staff, helps with program evaluation, and publishes useful statistics and dashboards for anyone to use.
