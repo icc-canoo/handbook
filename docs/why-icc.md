@@ -71,7 +71,7 @@ Overall, Canada remains a great place for immigrants to settle. But there are st
 
 For starters, the number of immigrants who become citizens within 10 years of arrival plummeted by almost 20% between 2001 and 2016.
 
-<bordered-image alt="Chart of Canada's declining citizenship rates" src="./_media/declining-citizenship-rates.png"></bordered-image>
+<bordered-image alt="Chart of Canada's declining citizenship rates" src="./_media/declining-citizenship-rates-new.png"></bordered-image>
 
 We found this pretty surprising, so in March 2022, we polled about 2,000 immigrants to ask about their experience of life in Canada. The result was even more surprising: 30% of newcomers under the age of 35 told us they were likely to leave Canada within two years, mostly for economic reasons.
 
