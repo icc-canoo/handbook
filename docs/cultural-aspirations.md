@@ -8,7 +8,7 @@ These aspirations were created by our senior leadership group with significant i
 
 We aspire to have a culture that is:
 
-1. __Grounded in service__. We serve newcomers to serve Canada. The whole country benefits from newcomers' contributions, which menas the whole country benefits from our work to make newcomers feel at home here. We take great pride in doing this work well.
+1. __Grounded in service__. We serve newcomers to serve Canada. The whole country benefits from newcomers' contributions, which means the whole country benefits from our work to make newcomers feel at home here. We take great pride in doing this work well.
 
 2. __Deliberate__. We don't run around like chickens with their heads cut off, reacting frantically to whatever comes at us. We take our time to think things through, be strategic, and make deliberate choices about how we want to spend our limited energy.
 
