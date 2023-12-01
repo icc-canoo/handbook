@@ -31,7 +31,7 @@ If you speak and write at a professional level in both English and French, we'll
 ### Other add-ons
 We increase pay above normal levels for jobs requiring specific skills technical skills like coding. The add-ons for a given job will be listed in the job description.
 
-comment]: <> (### Performance bonuses
+[comment]: <> (### Performance bonuses
 For some positions at the ICC, a performance bonus will form part of your overall compensation. This will be listed in the job description. Here's how it works (if you're eligible):
 
 1. Your contract will specify a maximum annual bonus amount, usually expressed as a percentage of your base pay. For example, if your base pay is $80k with a 10% maximum bonus, you can make up to $8k extra after 12 months.
