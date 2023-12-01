@@ -26,11 +26,11 @@ A quick aside about these onboarding projects so you don't get the wrong idea. O
 After meeting your manager, you'll meet your new team and then get to work.
 
 ### Rest of week 1
-You'll get a good amount of meeting-free work time to advance your project, with frequent check-ins by your manager and your buddy to make sure you have all the support you need to succeed. Our CEO and the rest of the senior leadership team will drop in to say hi. You'll need to book time to meet Tanya, our Office Manager, and also do a short training session with Jill, who handles HR. The government makes this training mandatory and we try to do it in the least bureaucratic way possible.
+You'll get a good amount of meeting-free work time to advance your project, with frequent check-ins by your manager and your buddy to make sure you have all the support you need to succeed. Our CEO and the rest of the senior leadership team will drop in to say hi. You'll need to book time to meet Tanya, our Office Manager, and also do a short HR training session. (The government makes this training mandatory and we try to do it in the least bureaucratic way possible.)
 
 You'll also need to watch a few training videos about Salesforce, our CRM, even if you've used it before. We do lots of cross-departmental work, so keeping accurate records is *__really__* important.
 
-Finally, you'll end the week with your first OKR checkin and our Friday afternoon all-staff hangout, lovingly called the Meeting of the Minds.
+Finally, you'll end the week with your first OKR checkin and our Friday afternoon staff hangout, lovingly called the Meeting of the Minds.
 
 ## Week 2
 
