@@ -1,11 +1,14 @@
 # Where we work
 
 ## Toronto HQ
-We have an office in the heart of Toronto's Chinatown. There's great food nearby and we're steps from Kensington Market, Queen West, and other desirable locations like that. It's really easy to get to by public transportation and bike, and if you have to drive, there's an affordable lot across the street.
+We have an office in the heart of downtown Toronto, very close to Union Station and the Rogers Centre. It's really easy to get to by public transportation and bike, and if you have to drive, there's a lot in the building for $20/day.
 
-You're welcome to use the office whenever you like, and we will require you to come in on certain occasions when the need arises to do certain group activities that are best conducted in-person.
+Our office is housed inside OneEleven, a co-working space for tech scale ups that have proven their viability and are growing fast. The space is buzzing with smart and interesting people. We are the only charity there. Like many tech-ish offices, ours has a ping pong table, free coffee and tea that's actually quite good, and even a nap room with some comfy hammocks if you need it. When there's a big group of us in, we tend to provide lunch, and if you stay until the end of the day, there's a decent chance we'll take you for a drink too!
 
-There is free coffee and tea in the office, plus hot and cold filtered water. When there's a group of us in, we tend to provide lunch, and if you stay until the end of the day, there's a good chance we'll take you for a drink too.
+You're welcome to use the office whenever you like, and we will require you to come in at least two days per week if you live within a reasonable commuting distance.
+
+## Ottawa and Montréal Hubs
+If you live in Ottawa or Montréal, or if you're passing through for work, you can enjoy co-working spaces we rent there.
 
 ## Your place (in Canada)
 Remote work is obviously not a fad and we're fine for you to work from home. We provide a $75/month stipend to compensate you for use of your home internet and personal mobile phone, whether you work from home or not.
