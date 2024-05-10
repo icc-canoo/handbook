@@ -7,8 +7,8 @@ Our office is housed inside OneEleven, a co-working space for tech scale ups tha
 
 You're welcome to use the office whenever you like, and we will require you to come in at least two days per week if you live within a reasonable commuting distance.
 
-## Ottawa and Montréal Hubs
-If you live in Ottawa or Montréal, or if you're passing through for work, you can enjoy co-working spaces we rent there.
+## Ottawa Hub
+If you live in Ottawa, or if you're passing through for work, you can enjoy co-working spaces we rent there.
 
 ## Your place (in Canada)
 Remote work is obviously not a fad and we're fine for you to work from home. We provide a $75/month stipend to compensate you for use of your home internet and personal mobile phone, whether you work from home or not.
