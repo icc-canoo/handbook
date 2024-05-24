@@ -11,12 +11,12 @@ Each job title has a prescribed pay band, as follows:
 
 Title | Min pay | Max pay
 ---|---|---
-Assistant | $52.5k | $57.75k
-Specialist | $57.75k | $63k
-Lead | $63k | $73.5k
-Manager | $75.5k | $84k
-Director | $84k | $105k
-Senior Director | $105k | $131k
+Assistant | $54.5k | $60k
+Specialist | $60k | $65.5k
+Lead | $65.5k | $76.5k
+Manager | $78.5k | $87.5k
+Director | $87.5k | $110k
+Senior Director | $110k | $136k
 
 The pay range for a given job is always listed on the job description for full transparency.
 
