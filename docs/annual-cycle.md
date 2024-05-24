@@ -17,7 +17,7 @@
 
 ## October 1
 - Q2 Begins
-- All staff gather anywhere but Toronto to work and have some fun.
+- All staff gather in Toronto to work and have some fun. When possible, we try to host this one anywhere but Toronto. 
 
 ## November (after American Thanksgiving)
 - Giving Tuesday
