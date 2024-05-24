@@ -9,7 +9,7 @@ Benefit | Coverage level
 __Prescription Drugs__ | 90%
 __Semi-private hospital__ | 100%
 __Out of province emergency__ | 100%
-__Supplementary medical (eg. massage, physio)__ | 90% (max $500/yr)
+__Supplementary medical (eg. massage, physio)__ | 90% (max $750/yr)
 __Dental__ | 90% (max $1000/yr)
 __Long-term disability__ | Varies by employee
 __Life insurance__ | $25k
