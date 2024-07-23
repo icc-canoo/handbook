@@ -3,7 +3,7 @@
 ## Building Citizenship
 In partnership with Immigration, Refugees, and Citizenship Canada (i.e. the federal government), we host about 60 enhanced citizenship ceremonies per year. What are the enhancements?
 
-1. 100% of our ceremonies begin with a welcome from an Indigenous representative. Standard ceremonies don't include this.
+1. 100% of our ceremonies begin with a welcome from an Indigenous representative. Standard ceremonies recently adopted this as standard practice, following our example.
 2. Our ceremonies feature special guest speakers. Past speakers have included Chris Hadfield, Prime Minister Trudeau, the Rt. Hon. Adrienne Clarkson, David Suzuki, and other highly-respected Canadians.
 3. All our ceremonies have an artistic component, including a local anthem singer and sometimes a second performance.
 4. Our in-person ceremonies feature our signature roundtables, where new citizens and their families join prominent community members to speak openly about citizenship and what it means.
