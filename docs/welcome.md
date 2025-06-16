@@ -8,8 +8,6 @@ For over 15 years, we didn't have a formal handbook. We figured people would pic
 
 This handbook also gives you a sneak peek into our organization's culture. While no document can fully capture, let alone dictate team culture, this will hopefully give you a good start. Writing these things down also helps us improve as a team by giving us a concrete standard to work towards. Just the act of writing this all down provides us with an important opportunity to assess and reflect.
 
-This handbook is also an opportunity for you to tell us if what we think is happening is actually happening. After your first few weeks, we'll ask you whether the ICC described in this handbook matches your actual work experience. If it doesn't, we'll be looking to you for guidance about how to update the handbook, or make changes that can help bring our reality back into alignment with our intention.
-
 Ready? Let's do this.
 
 *P.S. This handbook is inspired by the one created for employees at Basecamp. Many thanks to the Basecamp team for crafting such a thoughtful document and for making it open source for everyone to use. This handbook is open source too. [View it on Github](https://github.com/icc-canoo/handbook).*
