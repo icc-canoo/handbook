@@ -9,10 +9,8 @@ Project management software for moving large projects to completion in an orderl
 [https://app.asana.com](https://app.asana.com)
 
 
-## Ceredian Powerpay
+## WagePoint
 This is where you access pay stubs, update payment details, find your T4, find your employment agreement(s) and request vacation and log sick/personal days. Sometimes, you’ll be asked to electronically sign your agreement to policies or other documents through this system too.
-
-[https://clients.powerpay.ca/selfservice/login](https://clients.powerpay.ca/selfservice/login)
 
 ## Microsoft Viva Goals (formerly Ally.io)
 This is where your OKRs are tracked and updated. The easiest way to use this is via the MS Teams integration, but you can also login with your browser. You can also set up integrations with Salesforce, a database, or even a spreadsheet,  so your OKRs update automatically.
@@ -26,3 +24,6 @@ This is our main CRM and process hub for a variety of core programming tasks. Sa
 [https://login.salesforce.com/](https://login.salesforce.com/)
 
 <cta-arrow target="moonlighting" text="Moonlighting"></cta-arrow>
+
+## Citation Canada
+Our HR Platform you will complete your performance reviews, sign off on employee documents and engage in Org Wide Training. 
