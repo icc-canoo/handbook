@@ -11,19 +11,19 @@ Each job title has a prescribed pay band, as follows:
 
 Title | Min pay | Max pay
 ---|---|---
-Assistant | $54.5k | $60k
-Specialist | $60k | $65.5k
-Lead | $65.5k | $76.5k
-Manager | $78.5k | $87.5k
-Director | $87.5k | $110k
-Senior Director | $110k | $136k
+Assistant | $56k | $61.5k
+Specialist | $61.5k | $67k
+Lead | $67k | $78k
+Manager | $80k | $89.5k
+Director | $89.5k | $112.5k
+Senior Director | $112.5k | $140k
 
 The pay range for a given job is always listed on the job description for full transparency.
 
 ## Extras
 
 ### WFH stipend
-We pay every employee $75/month for use of their personal mobile phone and home internet connection.
+We pay every employee $85/month for use of their personal mobile phone and home internet connection.
 
 ### Bilingualism premium
 If you speak and write at a professional level in both English and French, we'll increase your base pay by 10%.
