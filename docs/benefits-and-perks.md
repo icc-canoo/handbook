@@ -68,7 +68,7 @@ If you live in Quebec, the provincial government subsidizes parental leave quite
 
 
 ## Employee Assistance Program (EAP)
-Through our insurance provider, Sun Life, all ICC employees have access to an Employee Assistance Program called Sun Life RightDirections.
+Through our insurance provider, Sun Life, all ICC employees have access to an Employee Assistance Program called 'Lumino Health Virtual Care’s Employee Assistance Program, powered by Dialogue'.
 
 The program provides assistance with:
 - Family and social relationships
