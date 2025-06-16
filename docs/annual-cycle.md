@@ -5,7 +5,6 @@
 - All-staff gather in Toronto to work and have some fun. (See note below)
 
 ## July 1
-- Canada Day. We normally host a big enhanced citizenship ceremony.
 - Q2 begins. Summer is high season for the Canoo team.
 - All-staff gather in Toronto to work and have some fun.
 - Summer hours begin
@@ -17,7 +16,7 @@
 
 ## October 1
 - Q2 Begins
-- All staff gather in Toronto to work and have some fun. When possible, we try to host this one anywhere but Toronto. 
+- All staff gather in Toronto to work and have some fun. 
 
 ## November (after American Thanksgiving)
 - Giving Tuesday
