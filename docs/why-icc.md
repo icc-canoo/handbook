@@ -62,7 +62,7 @@ One of Canada's biggest hit shows, which succeeded domestically and abroad, is _
 
 <bordered-image alt="Kim's convenience cast covershot" src="./_media/kim-cover.png"></bordered-image>
 
-Tareq Hadhad has become an international sensation since arriving in Canada in 2016 as a refugee from Syria. He has built a hugely successful business, Peace by Chocolate, which is a major contributor to community organizations across the country (including the ICC). This virtuous enterprise has garnered tonnes of attention, showing the world why Canada's openness to newcomers is such a core strength of ours. Tareq's story has now been turned into a feature film, with Canada's welcoming disposition playing a central role. Tareq became a citizen at the first available opportunity and joined our Canoo program soon after.
+Tareq Hadhad has become an international sensation since arriving in Canada in 2016 as a refugee from Syria. He has built a hugely successful business, Peace by Chocolate, which is a major contributor to community organizations across the country (including the ICC). This virtuous enterprise has garnered tonnes of attention, showing the world why Canada's openness to newcomers is such a core strength of ours. Tareq's story has now been turned into a feature film (Peace by Chocolate, 2021), with Canada's welcoming disposition playing a central role. Tareq became a citizen at the first available opportunity and joined our Canoo program soon after.
 
 <bordered-image alt="Tareq Hadhad becomes a Canadian citizen" src="./_media/tareq-citizenship.jpeg"></bordered-image>
 
