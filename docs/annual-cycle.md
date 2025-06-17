@@ -15,7 +15,7 @@
 - Annual report goes out
 
 ## October 1
-- Q2 Begins
+- Q3 Begins
 - All staff gather in Toronto to work and have some fun. 
 
 ## November (after American Thanksgiving)
